@@ -1,4 +1,4 @@
-# Yudistira Eka Pratama
+# Hi, I am yvdist (Yudistira Eka Pratama)
 
 Senior software engineer in South Jakarta. I build full-stack web applications, enterprise systems and AI-driven apps for clients across ASEAN.
 
