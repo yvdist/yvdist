@@ -27,17 +27,29 @@
 | **[Kikoeru Lab](https://kikoeru-lab.vercel.app)** · [source](https://github.com/yvdist/kikoeru-lab) | Listens to complaints on Hacker News & Reddit and ranks the project ideas hiding in them. |
 
 ## 🛠️ Tech Stack
-**Backend**<br>
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Frontend**<br>
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpine.js-%238BC0D0.svg?style=for-the-badge&logo=alpinedotjs&logoColor=black) ![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=threedotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**AI**<br>
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-
-**Mobile & Tools**<br>
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vitest](https://img.shields.io/badge/vitest-%236E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="140"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgres,mongodb&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,react,nextjs,svelte,angular,threejs,tailwind&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Mobile & Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,docker,vercel&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI-1f2328?style=flat-square" />
+      <img src="https://img.shields.io/badge/Claude-1f2328?style=flat-square&logo=anthropic&logoColor=D97757" />
+      <img src="https://img.shields.io/badge/Gemini-1f2328?style=flat-square&logo=googlegemini&logoColor=8E75B2" />
+    </td>
+  </tr>
+</table>
 
 ## 📫 Say Hi
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://tamaportfolio.vercel.app)
